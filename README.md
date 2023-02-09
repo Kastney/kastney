@@ -31,7 +31,7 @@ Here are some of the key technologies in which I have skills and expertise.
 </picture>
 
 - **WEB DEVELOPMENT** In web development, I have knowledge in technologies such as `HTML`, `CSS`, `JavaScript` and `Jekyll`. Additionally, I understand the importance of creating websites and web applications with a good user experience and efficient performance.
-[Show projects]([https://github.com/kastney?tab=repositories&q=website](https://github.com/kastney?tab=repositories&q=website&type=&language=&sort=stargazers))
+[Show projects](https://github.com/kastney?tab=repositories&q=website&type=&language=&sort=stargazers)
 
 <div style="display: inline_block" align="center">
     <picture><img height="35" wight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></picture>
