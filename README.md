@@ -43,8 +43,32 @@ Here are listed some of the most important technologies in which I have invested
 
 <br>
 
-As a professional interested in cutting-edge technologies, I am always searching for new challenges and opportunities to improve my skills in `cloud computing` and `embedded systems`. I believe these fields present numerous possibilities for developing innovative and efficient solutions, and I am eager to explore these opportunities in future work.
+As a professional interested in cutting-edge technologies, I am always searching for new challenges and opportunities to improve my skills in `Cloud Computing` and `Embedded Systems`. I believe these fields present numerous possibilities for developing innovative and efficient solutions, and I am eager to explore these opportunities in future work.
 
 <br><br><br>
 
 # **Projects**
+
+Below is the list of the main projects that I am currently working on:
+
+### **1. Personal Website**
+
+This project consists of a site/blog hosted on Github Pages, with the goal of sharing posters that cover a wide range of topics related to the technology and development world. Each poster is carefully crafted to present clear and concise information about the subjects at hand. Furthermore, I hope to inspire the community through this project, promoting knowledge and awareness about relevant technology issues.
+
+<a href="https://github.com/kastney/kastney.github.io">
+<picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=kastney&repo=kastney.github.io&theme=dark&bg_color=00000000&hide_border=true&show_owner=false"
+        media="(prefers-color-scheme: dark)"/>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=kastney&repo=kastney.github.io&bg_color=00000000&hide_border=true&show_owner=false"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img />
+</picture>
+</a>
+
+If you want to collaborate on a project, or if you want to get in touch, feel free to open an `issue` or send an `email` to my contact address.
+
+<br><br><br>
+
+# **My Contact**
