@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <!-- Github Status -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kastney&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=kastney&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"/>
+
+<!-- Github Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true"/>
 
 <!-- Redes Sociais -->
 
