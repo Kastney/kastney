@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<!-- Github Status -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kastney&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000"/>
+</div>
+
+<!-- Redes Sociais -->
+
+
+
 <!--
 **kastney/kastney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
