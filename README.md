@@ -76,9 +76,9 @@ If you want to collaborate on a project, or if you want to get in touch, feel fr
 When we talk about getting in touch, you can find here the most important means of communication to communicate with me.
 
 <div>
-    <a target="_blank" href="https://twitter.com/kastney"><img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white&style=for-the-badge"></a>
-    <a target="_blank" href="https://instagram.com/kastney"><img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge"></a>
-    <a target="_blank" href="mailto:kastney@gmail.com"><img src="https://img.shields.io/badge/Gmail-db4a39?logo=gmail&logoColor=white&style=for-the-badge"></a>
+    <a href="https://twitter.com/kastney"><img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white&style=for-the-badge"></a>
+    <a href="https://instagram.com/kastney"><img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge"></a>
+    <a href="mailto:kastney@gmail.com"><img src="https://img.shields.io/badge/Gmail-db4a39?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </div>
 
 <br><br><br>
@@ -90,7 +90,7 @@ I have many projects underway and I am excited to share them with you. If you li
 As a sponsor, you will be supporting my journey 💗. If you are interested in contributing to my projects, please feel free to contact me using the contact information below.
 
 <div>
-    <a target="_blank" href="https://ko-fi.com/kastney"><img src="https://img.shields.io/badge/Ko%5Ffi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge" target="_blank"></a>
+    <a href="https://ko-fi.com/kastney"><img src="https://img.shields.io/badge/Ko%5Ffi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge"></a>
 </div>
 
 
