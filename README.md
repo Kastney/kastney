@@ -25,10 +25,10 @@ Here are listed some of the most important technologies in which I have invested
 <div>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&theme=dark&hide_border=true&langs_count=10&bg_color=00000000&hide=c%23"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&theme=dark&hide_border=true&langs_count=10&bg_color=00000000&exclude_repo=TIMEG"
             media="(prefers-color-scheme: dark)"/>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&bg_color=00000000&hide=c%23"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&bg_color=00000000&exclude_repo=TIMEG"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img />
     </picture>
