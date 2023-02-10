@@ -72,3 +72,9 @@ If you want to collaborate on a project, or if you want to get in touch, feel fr
 <br><br><br>
 
 # **My Contact**
+
+When we talk about getting in touch, you can find here the most important means of communication to communicate with me.
+
+<div>
+    <a href="https://twitter.com/kastney" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkastney"></a>
+</div>
