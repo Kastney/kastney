@@ -40,7 +40,7 @@ Here are listed some of the most important technologies in which I have invested
 <div align="center">
     <picture><img src="https://img.shields.io/badge/HTML_5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></picture>
     <picture><img src="https://img.shields.io/badge/CSS_3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></picture>
-    <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"></picture>
+    <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=444444&style=for-the-badge"></picture>
     <picture><img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"></picture>
     <picture><img src="https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white&style=for-the-badge"></picture>
 </div>
