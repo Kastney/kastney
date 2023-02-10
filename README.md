@@ -17,7 +17,7 @@ Hello! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽�
 
 <br><br>
 
-# **Skills**
+# **1. Skills**
 
 Here are listed some of the most important technologies in which I have invested time and effort to develop skills and experience.
 
@@ -34,7 +34,7 @@ Here are listed some of the most important technologies in which I have invested
     </picture>
 </div>
 
-### **1. Web Development**
+### **1.1. Web Development**
 In web development, I have knowledge in technologies such as `HTML`, `CSS`, `JavaScript` and `Jekyll`. Additionally, I understand the importance of creating websites and web applications with a good user experience and efficient performance.
 [Show Projects](https://github.com/kastney?tab=repositories&q=website&type=&language=&sort=stargazers)
 
@@ -48,7 +48,7 @@ In web development, I have knowledge in technologies such as `HTML`, `CSS`, `Jav
 
 <br><br>
 
-# **Interests**
+# **2. Interests**
 
 As a professional interested in cutting-edge technologies, I am always searching for new challenges and opportunities to improve my skills in `Cloud Computing` and `Embedded Systems`. I believe these fields present numerous possibilities for developing innovative and efficient solutions, and I am eager to explore these opportunities in future work.
 <div>
@@ -58,11 +58,11 @@ As a professional interested in cutting-edge technologies, I am always searching
 
 <br><br>
 
-# **Projects**
+# **3. Projects**
 
 Below is the list of the main projects that I am currently working on:
 
-### **1. Personal Website**
+### **3.1. Personal Website**
 
 This project consists of a site/blog hosted on Github Pages, with the goal of sharing posters that cover a wide range of topics related to the technology and development world. Each poster is carefully crafted to present clear and concise information about the subjects at hand. Furthermore, I hope to inspire the community through this project, promoting knowledge and awareness about relevant technology issues.
 
@@ -90,7 +90,7 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
 
 <br><br>
 
-# **My Contact**
+# **4. My Contact**
 
 When we talk about getting in touch, you can find here the most important means of communication to communicate with me.
 
