@@ -48,6 +48,10 @@ Here are listed some of the most important technologies in which I have invested
 <br>
 
 As a professional interested in cutting-edge technologies, I am always searching for new challenges and opportunities to improve my skills in `Cloud Computing` and `Embedded Systems`. I believe these fields present numerous possibilities for developing innovative and efficient solutions, and I am eager to explore these opportunities in future work.
+<div align="center">
+    <picture><img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"></picture>
+    <picture><img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"></picture>
+</div>
 
 <br><br>
 
