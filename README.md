@@ -17,7 +17,7 @@ Hello! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽�
 
 <br><br>
 
-# **Skills & Interests**
+# **Skills**
 
 Here are listed some of the most important technologies in which I have invested time and effort to develop skills and experience.
 
@@ -34,10 +34,11 @@ Here are listed some of the most important technologies in which I have invested
     </picture>
 </div>
 
-- **WEB DEVELOPMENT:** In web development, I have knowledge in technologies such as `HTML`, `CSS`, `JavaScript` and `Jekyll`. Additionally, I understand the importance of creating websites and web applications with a good user experience and efficient performance.
+### **1. Web Development**
+In web development, I have knowledge in technologies such as `HTML`, `CSS`, `JavaScript` and `Jekyll`. Additionally, I understand the importance of creating websites and web applications with a good user experience and efficient performance.
 [Show Projects](https://github.com/kastney?tab=repositories&q=website&type=&language=&sort=stargazers)
 
-<div align="center">
+<div>
     <picture><img src="https://img.shields.io/badge/HTML_5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></picture>
     <picture><img src="https://img.shields.io/badge/CSS_3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></picture>
     <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=444444&style=for-the-badge"></picture>
@@ -45,10 +46,12 @@ Here are listed some of the most important technologies in which I have invested
     <picture><img src="https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white&style=for-the-badge"></picture>
 </div>
 
-<br>
+<br><br>
+
+# **Interests**
 
 As a professional interested in cutting-edge technologies, I am always searching for new challenges and opportunities to improve my skills in `Cloud Computing` and `Embedded Systems`. I believe these fields present numerous possibilities for developing innovative and efficient solutions, and I am eager to explore these opportunities in future work.
-<div align="center">
+<div>
     <picture><img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"></picture>
     <picture><img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"></picture>
 </div>
@@ -77,11 +80,11 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
     </a>
 </div>
 
-<div align="center">
+<div>
     <a href="https://kastney.github.io/"><img src="https://img.shields.io/badge/Personal_Website-008cff?&style=for-the-badge"></a>
 </div>
 
-<br>
+<br><br>
 
 > If you want to collaborate on a project, or if you want to get in touch, feel free to open an `issue` or send an `email` to my contact address.
 
@@ -91,7 +94,7 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
 
 When we talk about getting in touch, you can find here the most important means of communication to communicate with me.
 
-<div align="center">
+<div>
     <a href="https://twitter.com/kastney"><img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white&style=for-the-badge"></a>
     <a href="https://instagram.com/kastney"><img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge"></a>
     <a href="mailto:kastney@gmail.com"><img src="https://img.shields.io/badge/Gmail-db4a39?logo=gmail&logoColor=white&style=for-the-badge"></a>
@@ -105,7 +108,7 @@ I have many projects underway and I am excited to share them with you. If you li
 
 As a sponsor, you will be supporting my journey 💗. If you are interested in contributing to my projects, please feel free to contact me using the contact information below.
 
-<div align="center">
+<div>
     <a href="https://ko-fi.com/kastney"><img src="https://img.shields.io/badge/Ko_fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge"></a>
 </div>
 
