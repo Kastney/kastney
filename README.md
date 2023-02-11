@@ -42,7 +42,7 @@ Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍�
 </div>
 
 > **Note:**
-> The list of the most frequently used languages in my public code is not an accurate measure of my experience or skills, as mastery of other languages and technologies can be equally relevant to my career in software development.
+> The list of the most frequent languages in my public code is not a precise metric of my experience or skills, since the mastery of other languages and technologies may be equally relevant to my career in software development.
 
 <br><br>
 
