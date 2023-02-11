@@ -26,35 +26,9 @@ Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍�
         <source
             srcset="https://streak-stats.demolab.com?user=kastney&hide_border=true&background=00000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-            <img height="250px"/>
+            <img height="220px"/>
     </picture>
 </div>
-
-<div>
-    <!-- Github Stats -->
-    <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&theme=dark&count_private=true&hide_border=true&custom_title=Kastney's%20GitHub%20Stats&bg_color=00000000"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&hide_border=true&custom_title=Kastney's%20GitHub%20Stats&bg_color=00000000"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img height="150px"/>
-    </picture>
-    <!-- Github Top Languages -->
-    <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&theme=dark&hide_border=true&langs_count=10&bg_color=00000000&exclude_repo=TIMEG"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&bg_color=00000000&exclude_repo=TIMEG"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img height="150px"/>
-    </picture>
-</div>
-
-> **Note:**
-> The list of the most frequent languages in my public code is not a precise metric of my experience or skills, since the mastery of other languages and technologies may be equally relevant to my career in software development.
 
 <br><br>
 
