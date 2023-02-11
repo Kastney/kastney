@@ -27,7 +27,7 @@ Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍�
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&hide_border=true&custom_title=Kastney's%20GitHub%20Stats&bg_color=00000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img/>
+        <img height="150px"/>
     </picture>
     <!-- Github Top Languages -->
     <picture>
@@ -37,9 +37,12 @@ Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍�
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&bg_color=00000000&exclude_repo=TIMEG"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img />
+        <img height="150px"/>
     </picture>
 </div>
+
+> **Note:**
+> The list of the most frequently used languages in my public code is not an accurate measure of my experience or skills, as mastery of other languages and technologies can be equally relevant to my career in software development.
 
 <br><br>
 
@@ -80,6 +83,10 @@ Below is the list of the main projects that I am currently working on:
 This project consists of a site/blog hosted on Github Pages, with the goal of sharing posters that cover a wide range of topics related to the technology and development world. Each poster is carefully crafted to present clear and concise information about the subjects at hand. Furthermore, I hope to inspire the community through this project, promoting knowledge and awareness about relevant technology issues.
 
 <div>
+    <a href="https://kastney.github.io/"><img src="https://img.shields.io/badge/Personal_Website-008cff?&style=for-the-badge"></a>
+</div>
+
+<div align="center">
     <a href="https://github.com/kastney/kastney.github.io">
         <picture>
             <source
@@ -88,17 +95,16 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
             <source
                 srcset="https://github-readme-stats.vercel.app/api/pin?username=kastney&repo=kastney.github.io&bg_color=00000000&hide_border=true&show_owner=false"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-            <img />
+            <img height="150px"/>
         </picture>
     </a>
 </div>
 
-<div>
-    <a href="https://kastney.github.io/"><img src="https://img.shields.io/badge/Personal_Website-008cff?&style=for-the-badge"></a>
-</div>
 
-<br><br>
 
+<br>
+
+> **Note:**
 > If you want to collaborate on a project, or if you want to get in touch, feel free to open an `issue` or send an `email` to my contact address.
 
 <br><br>
