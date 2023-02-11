@@ -1,20 +1,25 @@
 <!-- Title -->
 <h1 align="center">
-    Hello, I'm Kastney!
-    <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></picture>    
+    <b>
+        Hello, I'm Kastney!
+        <picture>
+            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+        </picture>
+    </b>
 </h1>
 
 <!-- Console Animation -->
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Engineer;I'm+a+Cloud+Computing+Student;I'm+a+Game+Enthusiast;I'm+Passionate+About+Astronomy;I'm+a+Cat+and+Dog+Lover&center=false&height=45">
-  </a>
+  <picture>
+    <img src="https://readme-typing-svg.herokuapp.com?center=false&height=35&duration=7000&lines=🧑🏻‍💻+I'm+a+Software+Engineer;📋+I'm+a+Content+Creator;☁️+I'm+Studying+Cloud+Computing;🪐+I'm+an+Astronomy+Enthusiast;🐶😸+I'm+a+Dog+and+Cat+Lover;🕹️+I'm+a+Game+Enthusiast;🏎️+I'm+a+Formula+One+Fan;🎸+I'm+a+Music+Lover">
+  </picture>
 </p>
 
-Hello! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍🔬 who is always seeking new challenges 🎯 and learning opportunities 🌱. On my Github profile, you'll find some of my public projects 🚧 and my contribution🔗 history to the software development community 🌍. I believe that technology is a powerful tool for change and I'm always seeking ways to improve my skills and make a difference 🙂.
+<!-- Indroduction Text -->
+Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍🔬 who is always seeking new challenges 🎯 and learning opportunities 🌱. On my Github profile, you'll find some of my public projects 🚧 and my contribution🔗 history to the software development community 🌍. I believe that technology is a powerful tool for change and I'm always seeking ways to improve my skills and make a difference 🙂.
 
-<!-- Github Stats -->
 <div>
+    <!-- Github Stats -->
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&theme=dark&count_private=true&hide_border=true&custom_title=Kastney's%20GitHub%20Stats&bg_color=00000000"
@@ -24,16 +29,7 @@ Hello! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽�
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img/>
     </picture>
-</div>
-
-<br><br>
-
-# **1. Skills**
-
-Here are listed some of the most important technologies in which I have invested time and effort to develop skills and experience.
-
-<!-- Github Top Languages -->
-<div>
+    <!-- Github Top Languages -->
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&theme=dark&hide_border=true&langs_count=10&bg_color=00000000&exclude_repo=TIMEG"
@@ -44,6 +40,12 @@ Here are listed some of the most important technologies in which I have invested
         <img />
     </picture>
 </div>
+
+<br><br>
+
+# **1. Skills**
+
+Here are listed some of the most important technologies in which I have invested time and effort to develop skills and experience.
 
 ### **1.1. Web Development**
 In web development, I have knowledge in technologies such as `HTML`, `CSS`, `JavaScript` and `Jekyll`. Additionally, I understand the importance of creating websites and web applications with a good user experience and efficient performance.
