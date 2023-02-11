@@ -1,4 +1,15 @@
-# **Welcome to Kastney's Github Profile** 🤝🏼
+<!-- Title -->
+<h1 align="center">
+    Hello, I'm Kastney!
+    <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></picture>    
+</h1>
+
+<!-- Console Animation -->
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Engineer;I'm+a+Cloud+Computing+Student;I'm+a+Game+Enthusiast;I'm+Passionate+About+Astronomy;I'm+a+Cat+and+Dog+Lover&center=false&height=45">
+  </a>
+</p>
 
 Hello! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍🔬 who is always seeking new challenges 🎯 and learning opportunities 🌱. On my Github profile, you'll find some of my public projects 🚧 and my contribution🔗 history to the software development community 🌍. I believe that technology is a powerful tool for change and I'm always seeking ways to improve my skills and make a difference 🙂.
 
@@ -119,5 +130,5 @@ Sincerely, thank you for your consideration ❤️
 <br><br>
 
 <div align="right">
-    Warm regards, <b>@kastney</b>
+    Warm regards, <b>@kastney</b> 🤝
 </div>
