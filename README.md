@@ -11,12 +11,24 @@
 <!-- Console Animation -->
 <p>
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?center=false&height=35&duration=7000&lines=🧑🏻‍💻+I'm+a+Software+Engineer;📋+I'm+a+Content+Creator;☁️+I'm+Studying+Cloud+Computing;🪐+I'm+an+Astronomy+Enthusiast;🐶😸+I'm+a+Dog+and+Cat+Lover;🕹️+I'm+a+Game+Enthusiast;🏎️+I'm+a+Formula+One+Fan;🎸+I'm+a+Music+Lover">
+    <img src="https://readme-typing-svg.herokuapp.com?center=false&height=35&duration=7000&lines=🧑🏻‍💻+I'm+a+Software+Engineer;📋+I'm+a+Content+Creator;☁️+I'm+Studying+Cloud+Computing;🪐+I'm+an+Astronomy+Enthusiast;🐶😸+I'm+a+Dog+and+Cat+Lover;🕹️+I'm+a+Gaming+Aficionado;🏎️+I'm+a+Formula+One+Fan;🎸+I'm+a+Music+Connoisseur">
   </picture>
 </p>
 
 <!-- Indroduction Text -->
 Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍🔬 who is always seeking new challenges 🎯 and learning opportunities 🌱. On my Github profile, you'll find some of my public projects 🚧 and my contribution🔗 history to the software development community 🌍. I believe that technology is a powerful tool for change and I'm always seeking ways to improve my skills and make a difference 🙂.
+
+<div align="center">
+    <picture>
+        <source
+            srcset="https://streak-stats.demolab.com?user=kastney&hide_border=true&background=00000000&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://streak-stats.demolab.com?user=kastney&hide_border=true&background=00000000"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+            <img height="250px"/>
+    </picture>
+</div>
 
 <div>
     <!-- Github Stats -->
