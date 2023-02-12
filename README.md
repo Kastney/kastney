@@ -69,8 +69,8 @@ Below is the list of the main projects that I am currently working on:
 This project consists of a site/blog hosted on Github Pages, with the goal of sharing posters that cover a wide range of topics related to the technology and development world. Each poster is carefully crafted to present clear and concise information about the subjects at hand. Furthermore, I hope to inspire the community through this project, promoting knowledge and awareness about relevant technology issues.
 
 <div>
+    <a href="https://github.com/kastney/kastney.github.io"><img src="https://img.shields.io/badge/Repository-444444?&logo=gitHub&logoColor=white&style=for-the-badge"></a>
     <a href="https://kastney.github.io/"><img src="https://img.shields.io/badge/Personal_Website-008cff?&style=for-the-badge"></a>
-    <a href="https://github.com/kastney/kastney.github.io"><img src="https://img.shields.io/badge/Repository-222222?&logo=gitHub&logoColor=white&style=for-the-badge"></a>
 </div>
 
 <br>
