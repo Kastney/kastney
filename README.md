@@ -40,12 +40,12 @@ Here are the statistics for my profile on Github.
     <!-- Github Stats -->
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&hide=issues,contribs&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&theme=dark&hide=issues,contribs"
             media="(prefers-color-scheme: dark)"/>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&hide=issues,contribs"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-            <img height="140px"/>
+            <img height="150px"/>
     </picture>
     <!-- Github Top Languages -->
     <picture>
@@ -55,7 +55,7 @@ Here are the statistics for my profile on Github.
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img height="140px"/>
+        <img height="150px"/>
     </picture>
 </div>
 
