@@ -1,37 +1,31 @@
 <!-- Title -->
 <h1 align="center">
-    <b>
-        Hello, I'm Kastney!
-        <picture>
-            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-        </picture>
-    </b>
+    <b>Hello, I'm Kastney!</b>
+    <picture>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+    </picture>
 </h1>
 
 <!-- Console Animation -->
-<p>
+<div align="left">
   <picture>
     <img src="https://readme-typing-svg.herokuapp.com?center=false&height=35&duration=7000&lines=🧑🏻‍💻+I'm+a+Software+Engineer;📰+I'm+a+Content+Creator;☁️+I'm+Studying+Cloud+Computing;🪐+I'm+an+Astronomy+Enthusiast;🐶😺+I'm+a+Dog+and+Cat+Lover;🕹️+I'm+a+Gaming+Fan;🏎️+I'm+a+Formula+One+Buff;🎸+I'm+a+Music+Aficionado">
   </picture>
-</p>
+</div>
 
-<!-- Indroduction Text -->
+<!-- Indroduction Section -->
 Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍🔬 who is always seeking new challenges 🎯 and learning opportunities 🌱. On my Github profile, you'll find some of my public projects 🚧 and my contribution🔗 history to the software development community 🌍. I believe that technology is a powerful tool for change and I'm always seeking ways to improve my skills and make a difference 🙂.
 
+<!-- Streak Stats -->
 <div align="center">
     <picture>
-        <source
-            srcset="https://streak-stats.demolab.com?user=kastney&hide_border=true&background=00000000&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://streak-stats.demolab.com?user=kastney&hide_border=true&background=00000000"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-            <img height="220px"/>
+        <img src="https://streak-stats.demolab.com?user=kastney&hide_border=true&background=00000000&theme=tokyonight" height="220px"/>
     </picture>
 </div>
 
 <br><br>
 
+<!-- Stats Section -->
 # **📈 Stats**
 
 Here are the statistics for my profile on Github.
@@ -39,23 +33,11 @@ Here are the statistics for my profile on Github.
 <div>
     <!-- Github Stats -->
     <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&theme=dark&hide=issues,contribs"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&hide=issues,contribs"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-            <img height="150px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&theme=tokyonight&bg_color=00000000&hide=issues,contribs" height="150px"/>
     </picture>
     <!-- Github Top Languages -->
     <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img height="150px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=tokyonight&&bg_color=00000000" height="150px"/>
     </picture>
 </div>
 
@@ -64,6 +46,7 @@ Here are the statistics for my profile on Github.
 
 <br><br>
 
+<!-- Skills Section -->
 # **✨ Skills**
 
 Here are listed some of the most important technologies in which I have invested time and effort to develop skills and experience.
@@ -82,6 +65,7 @@ In web development, I have knowledge in technologies such as `HTML`, `CSS`, `Jav
 
 <br><br><br>
 
+<!-- Interests Section -->
 # **🌱 Interests**
 
 As a professional interested in cutting-edge technologies, I am always searching for new challenges and opportunities to improve my skills in `Cloud Computing` and `Embedded Systems`. I believe these fields present numerous possibilities for developing innovative and efficient solutions, and I am eager to explore these opportunities in future work.
@@ -92,6 +76,7 @@ As a professional interested in cutting-edge technologies, I am always searching
 
 <br><br><br>
 
+<!-- Current Projects Section -->
 # **🚧 Current Projects**
 
 Below is the list of the main projects that I am currently working on:
@@ -112,6 +97,7 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
 
 <br><br><br>
 
+<!-- Connect Section -->
 # **🙋🏻‍♂️ Let's Connect**
 
 When we talk about getting in touch, you can find here the most important means of communication to communicate with me.
@@ -124,6 +110,7 @@ When we talk about getting in touch, you can find here the most important means 
 
 <br><br><br>
 
+<!-- Sponsorship Section -->
 # **💗 Sponsorship**
 
 I have many projects underway and I am excited to share them with you. If you like my content and believe that I have already helped you in some way, I would be very grateful for your sponsorship.
