@@ -23,7 +23,7 @@ Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍�
     </picture>
 </div>
 
-<br><br>
+<br>
 
 <!-- Stats Section -->
 # **📈 Stats**
