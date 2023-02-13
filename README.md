@@ -11,7 +11,7 @@
 <!-- Console Animation -->
 <p>
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?center=false&height=35&duration=7000&lines=🧑🏻‍💻+I'm+a+Software+Engineer;📋+I'm+a+Content+Creator;☁️+I'm+Studying+Cloud+Computing;🪐+I'm+an+Astronomy+Enthusiast;🐶😸+I'm+a+Dog+and+Cat+Lover;🕹️+I'm+a+Gaming+Aficionado;🏎️+I'm+a+Formula+One+Fan;🎸+I'm+a+Music+Connoisseur">
+    <img src="https://readme-typing-svg.herokuapp.com?center=false&height=35&duration=7000&lines=🧑🏻‍💻+I'm+a+Software+Engineer;📰+I'm+a+Content+Creator;☁️+I'm+Studying+Cloud+Computing;🪐+I'm+an+Astronomy+Enthusiast;🐶😺+I'm+a+Dog+and+Cat+Lover;🕹️+I'm+a+Gaming+Fan;🏎️+I'm+a+Formula+One+Buff;🎸+I'm+a+Music+Aficionado">
   </picture>
 </p>
 
@@ -32,7 +32,39 @@ Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍�
 
 <br><br>
 
-# **🥇 Skills**
+# **📈 Stats**
+
+Here are the statistics for my profile on Github.
+
+<div>
+    <!-- Github Stats -->
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&hide=issues,contribs&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&hide=issues,contribs"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+            <img height="140px"/>
+    </picture>
+    <!-- Github Top Languages -->
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img height="140px"/>
+    </picture>
+</div>
+
+> **Note:**
+> The list of the most frequent languages in my public code is not a precise metric of my experience or skills, since the mastery of other languages and technologies may be equally relevant to my career in software development.
+
+<br><br>
+
+# **✨ Skills**
 
 Here are listed some of the most important technologies in which I have invested time and effort to develop skills and experience.
 
