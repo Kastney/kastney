@@ -33,11 +33,11 @@ Here are the statistics for my profile on Github.
 <div>
     <!-- Github Stats -->
     <picture>
-        <img src="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&theme=tokyonight&bg_color=00000000&hide=issues,contribs" height="140px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=kastney&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&theme=tokyonight&bg_color=00000000&hide=issues" height="150px"/>
     </picture>
     <!-- Github Top Languages -->
     <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=tokyonight&&bg_color=00000000" height="140px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastney&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=tokyonight&bg_color=00000000" height="150px"/>
     </picture>
 </div>
 
