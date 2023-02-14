@@ -47,7 +47,7 @@ Here are the statistics for my profile on Github.
 <br><br>
 
 <!-- Skills Section -->
-# **✨ Skills**
+# **🏅 Skills**
 
 Here are listed some of the most important technologies in which I have invested time and effort to develop skills and experience.
 
