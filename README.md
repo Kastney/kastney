@@ -44,7 +44,7 @@ Here are the statistics for my profile on Github.
 > **Note:**
 > The list of the most frequent languages in my public code is not a precise metric of my experience or skills, since the mastery of other languages and technologies may be equally relevant to my career in software development.
 
-<br><br>
+<br><br><br>
 
 <!-- Skills Section -->
 # **🏅 Skills**
@@ -103,7 +103,7 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
 When we talk about getting in touch, you can find here the most important means of communication to communicate with me.
 
 <div>
-    <a href="https://twitter.com/kastney"><img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white&style=flat"></a>
+    <a href="https://www.linkedin.com/in/kastney"><img src="https://img.shields.io/badge/Linkedin-00acee?logo=linkedin&logoColor=white&style=flat"></a>
     <a href="https://instagram.com/kastney"><img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=flat"></a>
     <a href="mailto:kastney@gmail.com"><img src="https://img.shields.io/badge/Gmail-db4a39?logo=gmail&logoColor=white&style=flat"></a>
 </div>
@@ -130,5 +130,5 @@ Sincerely, thank you for your consideration ❤️
 ---
 
 <div align="right">
-    Warm regards, <b>@kastney</b> 🫱🏼‍🫲🏻
+    Warm regards, <b>kastney</b> 🫱🏼‍🫲🏻
 </div>
