@@ -33,4 +33,8 @@ jobs:
           git config --local user.name "GitHub Action"
           git add visitors.json
           git commit -m "Update visitor count to ${{ steps.increment-visitors.outputs.new_visitors }}"
-          git push
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
