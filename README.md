@@ -46,13 +46,12 @@ Here are the statistics for my profile on Github.
 
 <br>
 
-Other Statistics
+Other statistics.
 
-<div>
-    <picture><img src="https://img.shields.io/badge/Visitors-11188-blue" alt="Visitors"></picture>
+<div align="center">
+    <p>Visitors:</p>
+    <picture><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkastney&s=20&c=70a5fd&bg=00000000&no=5&ff=digi&tb=&ta=" alt="Visitors"></picture>
 </div>
-
-![Visits](https://img.shields.io/badge/Visitors-11189-blue)
 
 <br><br><br>
 
