@@ -44,6 +44,14 @@ Here are the statistics for my profile on Github.
 > **Note:**
 > The list of the most frequent languages in my public code is not a precise metric of my experience or skills, since the mastery of other languages and technologies may be equally relevant to my career in software development.
 
+<br>
+
+Other Statistics
+
+<div>
+    <picture><img src="https://img.shields.io/badge/Visitors-11188-blue" alt="Visitors"></picture>
+</div>
+
 <br><br><br>
 
 <!-- Skills Section -->
@@ -70,7 +78,7 @@ In web development, I have knowledge in technologies such as `HTML`, `CSS`, `Jav
 
 As a professional interested in cutting-edge technologies, I am always searching for new challenges and opportunities to improve my skills in `Cloud Computing` and `Embedded Systems`. I believe these fields present numerous possibilities for developing innovative and efficient solutions, and I am eager to explore these opportunities in future work.
 <div>
-    <picture><img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat"></picture>
+    <picture><img src="https://img.shields.io/badge/Azure-0078D4?logo=icloud&logoColor=white&style=flat"></picture>
     <picture><img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat"></picture>
 </div>
 
@@ -87,7 +95,7 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
 
 <div>
     <a href="https://github.com/kastney/kastney.github.io"><img src="https://img.shields.io/badge/Repository-444444?&logo=gitHub&logoColor=white&style=flat"></a>
-    <a href="https://kastney.github.io/"><img src="https://img.shields.io/badge/Personal_Website-008cff?&style=flat"></a>
+    <a href="https://kastney.github.io/" target="_blank"><img src="https://img.shields.io/badge/Personal_Website-008cff?&style=flat"></a>
 </div>
 
 <br>
@@ -103,9 +111,9 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
 When we talk about getting in touch, you can find here the most important means of communication to communicate with me.
 
 <div>
-    <a href="https://www.linkedin.com/in/kastney"><img src="https://img.shields.io/badge/Linkedin-00acee?logo=linkedin&logoColor=white&style=flat"></a>
-    <a href="https://instagram.com/kastney"><img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=flat"></a>
-    <a href="mailto:kastney@gmail.com"><img src="https://img.shields.io/badge/Gmail-db4a39?logo=gmail&logoColor=white&style=flat"></a>
+    <a href="https://www.linkedin.com/in/kastney" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=flat"></a>
+    <a href="https://instagram.com/kastney" target="_blank"><img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=flat"></a>
+    <a href="mailto:kastney@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-db4a39?logo=gmail&logoColor=white&style=flat"></a>
 </div>
 
 <br><br><br>
@@ -118,7 +126,7 @@ I have many projects underway and I am excited to share them with you. If you li
 As a sponsor, you will be supporting my journey. If you are interested in contributing to my projects, please feel free to contact me using the contact information below.
 
 <div>
-    <a href="https://ko-fi.com/kastney"><img src="https://img.shields.io/badge/Ko_fi-FF5E5B?logo=kofi&logoColor=white&style=flat"></a>
+    <a href="https://ko-fi.com/kastney" target="_blank"><img src="https://img.shields.io/badge/Ko_fi-FF5E5B?logo=kofi&logoColor=white&style=flat"></a>
 </div>
 
 Together, we can achieve great things! Thank you for your time and I hope you enjoyed getting to know me a little better.
