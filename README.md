@@ -25,6 +25,8 @@ Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍�
 
 <br>
 
+---
+
 <!-- Stats Section -->
 # **📈 Stats**
 
@@ -44,16 +46,9 @@ Here are the statistics for my profile on Github.
 > **Note:**
 > The list of the most frequent languages in my public code is not a precise metric of my experience or skills, since the mastery of other languages and technologies may be equally relevant to my career in software development.
 
-<br>
-
-Other statistics.
-
-<div align="center">
-    <p>Visitors:</p>
-    <picture><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkastney&s=20&c=70a5fd&bg=00000000&no=5&ff=digi&tb=&ta=" alt="Visitors"></picture>
-</div>
-
 <br><br><br>
+
+---
 
 <!-- Skills Section -->
 # **🏅 Skills**
@@ -74,6 +69,8 @@ In web development, I have knowledge in technologies such as `HTML`, `CSS`, `Jav
 
 <br><br><br>
 
+---
+
 <!-- Interests Section -->
 # **🌱 Interests**
 
@@ -84,6 +81,8 @@ As a professional interested in cutting-edge technologies, I am always searching
 </div>
 
 <br><br><br>
+
+---
 
 <!-- Current Projects Section -->
 # **🚧 Current Projects**
@@ -106,6 +105,8 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
 
 <br><br><br>
 
+---
+
 <!-- Connect Section -->
 # **🙋🏻‍♂️ Let's Connect**
 
@@ -118,6 +119,8 @@ When we talk about getting in touch, you can find here the most important means 
 </div>
 
 <br><br><br>
+
+---
 
 <!-- Sponsorship Section -->
 # **💗 Sponsorship**
