@@ -52,6 +52,8 @@ Other Statistics
     <picture><img src="https://img.shields.io/badge/Visitors-11188-blue" alt="Visitors"></picture>
 </div>
 
+![Visits](https://img.shields.io/badge/Visitors-11189-blue)
+
 <br><br><br>
 
 <!-- Skills Section -->
