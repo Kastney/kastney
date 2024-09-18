@@ -1,0 +1,36 @@
+name: Update Visitor Count
+
+on:
+  workflow_dispatch:
+  page_build:
+    types: [deployment]
+
+jobs:
+  update-visitors:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+        
+      - name: Read current visitor count
+        id: get-visitors
+        run: |
+          echo "Current visitors: $(cat visitors.json)"
+          current=$(cat visitors.json | jq '.visitors')
+          echo "::set-output name=current::$current"
+          
+      - name: Increment visitor count
+        id: increment-visitors
+        run: |
+          new_visitors=$(( ${{ steps.get-visitors.outputs.current }} + 1 ))
+          echo "::set-output name=new_visitors::$new_visitors"
+          echo "{ \"visitors\": $new_visitors }" > visitors.json
+          
+      - name: Commit updated visitor count
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add visitors.json
+          git commit -m "Update visitor count to ${{ steps.increment-visitors.outputs.new_visitors }}"
+          git push
