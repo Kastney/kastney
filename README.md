@@ -115,7 +115,7 @@ When we talk about getting in touch, you can find here the most important means 
 <div>
     <a href="https://www.linkedin.com/in/kastney" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=flat"></a>
     <a href="https://instagram.com/kastney" target="_blank"><img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=flat"></a>
-    <a href="mailto:kastney@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-db4a39?logo=gmail&logoColor=white&style=flat"></a>
+    <a href="mailto:contato@kastney.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-db4a39?logo=gmail&logoColor=white&style=flat"></a>
 </div>
 
 <br><br><br>
