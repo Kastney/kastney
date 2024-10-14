@@ -20,7 +20,7 @@
 
 <!-- Seção: Indrodução -->
 
-Olá!👋 sou kastney e sou apaixonado por engenharia de software ❤️. Estou sempre em busca de novos desafios 🎯 e oportunidades de aprendizado 🌱. No meu perfil do GitHub, você encontrará alguns dos meus projetos públicos 🚧 e o histórico de contribuições 🔗 para a comunidade de desenvolvimento de software 🌍. Acredito que a tecnologia é uma ferramenta poderosa para a mudança e estou sempre procurando maneiras de aprimorar minhas habilidades e fazer a diferença 🙂
+Olá!👋 sou kastney e sou apaixonado por engenharia de software ❤️. Estou sempre em busca de novos desafios 🎯 e oportunidades de aprendizado 🌱. No meu perfil do GitHub, você encontrará alguns dos meus projetos públicos 🚧 e o histórico de contribuições 🔗 para a comunidade de desenvolvimento de software 🌍. Acredito que a tecnologia é uma ferramenta poderosa para a mudança e estou sempre procurando maneiras de aprimorar minhas habilidades e fazer a diferença 🙂.
 
 <!-- Estatística Streak -->
 

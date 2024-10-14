@@ -21,7 +21,7 @@
 
 <!-- Section: Indroduction -->
 
-Hello!👋 i'm kastney, and i'm passionate about software engineering ❤️. I'm always looking for new challenges 🎯 and learning opportunities 🌱. On my GitHub profile, you'll find some of my public projects 🚧 and my contribution history 🔗 to the software development community 🌍. I believe that technology is a powerful tool for change, and I'm always seeking ways to improve my skills and make a difference 🙂
+Hello!👋 i'm kastney, and i'm passionate about software engineering ❤️. I'm always looking for new challenges 🎯 and learning opportunities 🌱. On my GitHub profile, you'll find some of my public projects 🚧 and my contribution history 🔗 to the software development community 🌍. I believe that technology is a powerful tool for change, and I'm always seeking ways to improve my skills and make a difference 🙂.
 
 <!-- Streak Stats -->
 
