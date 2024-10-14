@@ -1,10 +1,6 @@
-<styles>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css" />
-</styles>
-
 <div align="right">
-    <span class="fi fi-br"></span>
-    <a target="_self" rel="alternate" hreflang="en-us" href="https://github.com/kastney/kastney/blob/main/README.md"><span class="fi fi-us"></span></a>
+    <a target="_self" rel="alternate" hreflang="pt-br" href="https://github.com/kastney/kastney/blob/main/README.md">en-us</a>
+    <span>pt-br</span>
 </div>
 
 <!-- Título -->
