@@ -1,22 +1,34 @@
+<styles>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css" />
+</styles>
+
+<div align="right">
+    <a target="_self" rel="alternate" hreflang="pt-br" href="https://github.com/kastney/kastney/blob/main/README.pt-br.md"><span class="fi fi-br"></span></a>
+    <span class="fi fi-us"></span>
+</div>
+
 <!-- Title -->
 <h1 align="center">
-    <b>Hello, I'm Kastney!</b>
+    <b>Hello, i'm kastney!</b>
     <picture>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
     </picture>
 </h1>
 
 <!-- Console Animation -->
+
 <div align="left">
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?center=false&height=35&duration=7000&lines=🧑🏻‍💻+I'm+a+Software+Engineer;📰+I'm+a+Content+Creator;☁️+I'm+Studying+Cloud+Computing;🪐+I'm+an+Astronomy+Enthusiast;🐶😺+I'm+a+Dog+and+Cat+Lover;🕹️+I'm+a+Gaming+Fan;🏎️+I'm+a+Formula+One+Buff;🎸+I'm+a+Music+Aficionado">
+    <img src="https://readme-typing-svg.herokuapp.com?center=false&height=35&duration=7000&lines=🧑🏻‍💻+I'm+a+software+engineer;📰+I+create+tech+content;☁️+I+study+cloud+computing;🪐+I'm+passionate+in+astronomy;🐶😺+I'm+an+animal+lover;🕹️+I'm+a+gaming+fan;🎸+I'm+obsessed+with+music">
   </picture>
 </div>
 
-<!-- Indroduction Section -->
-Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍🔬 who is always seeking new challenges 🎯 and learning opportunities 🌱. On my Github profile, you'll find some of my public projects 🚧 and my contribution🔗 history to the software development community 🌍. I believe that technology is a powerful tool for change and I'm always seeking ways to improve my skills and make a difference 🙂.
+<!-- Section: Indroduction -->
+
+Hello!👋 i'm kastney, and i'm passionate about software engineering ❤️. I'm always looking for new challenges 🎯 and learning opportunities 🌱. On my GitHub profile, you'll find some of my public projects 🚧 and my contribution history 🔗 to the software development community 🌍. I believe that technology is a powerful tool for change, and I'm always seeking ways to improve my skills and make a difference 🙂
 
 <!-- Streak Stats -->
+
 <div align="center">
     <picture>
         <img src="https://streak-stats.demolab.com?user=kastney&hide_border=true&background=00000000&theme=tokyonight" height="220px"/>
@@ -27,7 +39,8 @@ Hi! 👋 I'm Kastney and I'm a passionate ❤️ software engineer 👨🏽‍�
 
 ---
 
-<!-- Stats Section -->
+<!-- Section: Stats -->
+
 # **📈 Stats**
 
 Here are the statistics for my profile on Github.
@@ -44,18 +57,20 @@ Here are the statistics for my profile on Github.
 </div>
 
 > **Note:**
-> The list of the most frequent languages in my public code is not a precise metric of my experience or skills, since the mastery of other languages and technologies may be equally relevant to my career in software development.
+> The list of most used languages in my public code is not an accurate measure of my experience or skills.
 
 <br><br><br>
 
 ---
 
-<!-- Skills Section -->
+<!-- Section: Skills -->
+
 # **🏅 Skills**
 
 Here are listed some of the most important technologies in which I have invested time and effort to develop skills and experience.
 
 ### **🌐 Web Development**
+
 In web development, I have knowledge in technologies such as `HTML`, `CSS`, `JavaScript` and `Jekyll`. Additionally, I understand the importance of creating websites and web applications with a good user experience and efficient performance.
 [Show Projects](https://github.com/kastney?tab=repositories&q=website&type=&language=&sort=stargazers)
 
@@ -71,10 +86,12 @@ In web development, I have knowledge in technologies such as `HTML`, `CSS`, `Jav
 
 ---
 
-<!-- Interests Section -->
+<!-- Section: Interests -->
+
 # **🌱 Interests**
 
 As a professional interested in cutting-edge technologies, I am always searching for new challenges and opportunities to improve my skills in `Cloud Computing` and `Embedded Systems`. I believe these fields present numerous possibilities for developing innovative and efficient solutions, and I am eager to explore these opportunities in future work.
+
 <div>
     <picture><img src="https://img.shields.io/badge/Azure-0078D4?logo=icloud&logoColor=white&style=flat"></picture>
     <picture><img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat"></picture>
@@ -84,7 +101,8 @@ As a professional interested in cutting-edge technologies, I am always searching
 
 ---
 
-<!-- Current Projects Section -->
+<!-- Section: Current Projects -->
+
 # **🚧 Current Projects**
 
 Below is the list of the main projects that I am currently working on:
@@ -107,7 +125,8 @@ This project consists of a site/blog hosted on Github Pages, with the goal of sh
 
 ---
 
-<!-- Connect Section -->
+<!-- Section: Connect -->
+
 # **🙋🏻‍♂️ Let's Connect**
 
 When we talk about getting in touch, you can find here the most important means of communication to communicate with me.
@@ -115,14 +134,15 @@ When we talk about getting in touch, you can find here the most important means 
 <div>
     <a href="https://www.linkedin.com/in/kastney" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=flat"></a>
     <a href="https://instagram.com/kastney" target="_blank"><img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=flat"></a>
-    <a href="mailto:contato@kastney.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-db4a39?logo=gmail&logoColor=white&style=flat"></a>
+    <a href="mailto:contato@kastney.com" target="_blank"><img src="https://img.shields.io/badge/E%20mail-005FF9?logo=maildotru&logoColor=white&style=flat"></a>
 </div>
 
 <br><br><br>
 
 ---
 
-<!-- Sponsorship Section -->
+<!-- Section: Sponsorship -->
+
 # **💗 Sponsorship**
 
 I have many projects underway and I am excited to share them with you. If you like my content and believe that I have already helped you in some way, I would be very grateful for your sponsorship.
