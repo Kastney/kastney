@@ -129,7 +129,7 @@ Quando falamos sobre entrar em contato, você pode encontrar aqui os meios de co
 <div>
     <a href="https://www.linkedin.com/in/kastney" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=flat"></a>
     <a href="https://instagram.com/kastney" target="_blank"><img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=flat"></a>
-    <a href="mailto:contato@kastney.com" target="_blank"><img src="https://img.shields.io/badge/E%20mail-005FF9?logo=maildotru&logoColor=white&style=flat"></a>
+    <a href="mailto:contato@kastney.com" target="_blank"><img src="https://img.shields.io/badge/E%20mail-df0000?logo=maildotru&logoColor=white&style=flat"></a>
 </div>
 
 <br><br><br>
