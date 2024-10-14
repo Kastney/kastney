@@ -1,6 +1,6 @@
 <div align="right">
-    <img src="https://github.com/kastney/kastney/blob/main/assets/flags/pt-br.png">
-    <a target="_self" rel="alternate" hreflang="en-us" href="https://github.com/kastney/kastney/blob/main/README.md"><img src="https://github.com/kastney/kastney/blob/main/assets/flags/en-us.png"></a>
+    <picture><img height="20" src="https://github.com/kastney/kastney/blob/main/assets/flags/pt-br.png"></picture>
+    <a target="_self" rel="alternate" hreflang="en-us" href="https://github.com/kastney/kastney/blob/main/README.md"><img height="20" src="https://github.com/kastney/kastney/blob/main/assets/flags/en-us.png"></a>
 </div>
 
 <!-- Título -->
