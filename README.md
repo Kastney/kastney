@@ -1,6 +1,6 @@
 <div align="right">
     <a target="_self" rel="alternate" hreflang="pt-br" href="https://github.com/kastney/kastney/blob/main/README.pt-br.md"><img src="https://github.com/kastney/kastney/blob/main/assets/flags/pt-br.png"></a>
-    <a target="_self" rel="alternate" hreflang="en-us" href="https://github.com/kastney/kastney/blob/main/README.md"><img src="https://github.com/kastney/kastney/blob/main/assets/flags/en-us.png"></a>
+    <img src="https://github.com/kastney/kastney/blob/main/assets/flags/en-us.png">
 </div>
 
 <!-- Title -->
