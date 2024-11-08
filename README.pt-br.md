@@ -30,6 +30,12 @@ Olá!👋 sou kastney e sou apaixonado por engenharia de software ❤️. Estou 
     </picture>
 </div>
 
+<div align="center">
+    <picture>
+        <img src="https://github-profile-trophy.vercel.app/?username=kastney&theme=dracula&no-frame=true&no-bg=true&column=-1&rank=-C" />
+    </picture>
+</div>
+
 <br>
 
 ---
