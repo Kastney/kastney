@@ -33,7 +33,7 @@ Hello!👋 i'm kastney, and i'm passionate about software engineering ❤️. I'
 
 <div align="center">
     <picture>
-        <img src="https://github-profile-trophy.vercel.app/?username=kastney&theme=dracula&no-frame=true&no-bg=true&column=-1&rank=-C" />
+        <img src="https://github-profile-trophy.vercel.app/?username=kastney&theme=onedark&no-frame=true&no-bg=true&column=-1&rank=-C,-SECRET" />
     </picture>
 </div>
 
